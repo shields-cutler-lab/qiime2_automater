@@ -2,3 +2,5 @@
 .DS_Store
 test_data_phylo/
 test_data_no_phylo/
+.ipynb_checkpoints
+scratch_pad.ipynb
