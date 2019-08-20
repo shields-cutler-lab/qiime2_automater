@@ -18,6 +18,8 @@ metadatafp = sys.argv[2]
 taxonomyfp = sys.argv[3]
 rarefy = int(sys.argv[4])
 
+with open('automater_cmd_run.txt', 'w') as cmdsave:
+    cmdsave.write(' '.join(sys.argv))
 os.mkdir('qiime2_artifacts')
 os.mkdir('qiime2_viz')
 os.mkdir('alpha_diversity')
