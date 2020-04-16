@@ -4,7 +4,7 @@ import os
 import sys
 import pandas as pd
 
-usage = 'python qiime2_automater.py otu_table_fp metadata_fp taxonomy_fp rarefaction_level_counts phylo_tree_OR_NONE PROK_OR_NONE'
+usage = 'python qiime2_2018.11_automater.py otu_table_fp metadata_fp taxonomy_fp rarefaction_level_counts phylo_tree_OR_NONE PROK_OR_NONE'
 
 ## Refactored for QIIME 2018.11 changes ##
 ## Not compatible with previous versions ##
