@@ -4,7 +4,7 @@ Robin Shields-Cutler
 Inspired by the frustrations of continuously going through the tedious commandline steps required to go from tab-delimited OTU table to a suite of alpha & beta diversity results, rank-collapsed taxonomy tables, taxa bar plots, etc., and then again to convert those diversity metrics, taxonomy tables, etc., back into a text format that other software (e.g. R) can easily read.
 
 ### Version note:
-Occassionally QIIME 2 command arguments change. This script version is tested with QIIME2 v2018.11, after some significant changes to common commands from a previous version. Will try to test on newer versions periodically.
+Occassionally QIIME 2 command arguments or filenames change. This script version is named by the version tested most recently. There are two versions of the script that work on two different versions on QIIME2. Versions older than 2018.11 are not likely to work with these scripts.
 
 ## The inputs:
 To use: You must have:
