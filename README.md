@@ -16,7 +16,7 @@ To use: You must have:
 
 ## Run the script:
 ```shell
-$ python qiime2_automater_2018.11_automater.py --help`
+$ python qiime2_automater_2021.11_automater.py --help`
 python qiime2_automater.py otu_table_fp metadata_fp taxonomy_fp rarefaction_level_counts phylo_tree_OR_NONE PROK_OR_NONE'`
 # Positional arguments - make sure they are in the right order. (What. I got lazy.)
 # If not running phylogenetic, enter NONE instead of the tree file path
